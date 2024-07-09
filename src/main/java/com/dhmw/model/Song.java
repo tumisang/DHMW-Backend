@@ -1,7 +1,6 @@
 package com.dhmw.model;
 
 import java.util.Date;
-import com.dhmw.setup.Genre;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
